@@ -1,0 +1,130 @@
+---
+title: "Kyle Monahan"
+author: Kyle M Monahan
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # Thanks to Eric R. Scott for this tip! 
+    self_contained: false
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Data](data_icon.png){width=30%}
+<!-- ![Data](`r here::here("data_icon.png")`) -->
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i>li.ling@tufts.edu
+- <i class="fa fa-github"></i> [github.com/lynn0924/](https://github.com/lynn0924)
+- <i class="fa fa-phone"></i> +86 13621891434
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Performing **data analysis**, with a focus on engineering models
+
+- Experienced in **data communication** and client relations
+
+- Wrote production-level **R/Python/SQL** 
+
+- Experienced in **Financial Management and Tax Advisory**
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Li Ling {#title}
+--------------------------------------------------------------------------------
+
+### Data Analytics student seeking Spring 2020 internship
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Tufts University
+
+MS Candidate in Data Analysis
+
+Medford, MA
+
+Sept.2020--Current
+
+
+### Shanghai University of International Business and Economics
+
+B.A. in Corporate Finance
+
+Shanghai, China 
+
+Sept.2012--Jun.2016
+
+
+
+Experience {data-icon=flask}
+--------------------------------------------------------------------------------
+
+### KPMG Advisory (China) Limited
+
+Tax Assistant Manager – Financial Services
+
+Shanghai, China
+
+Oct.2016--Mar.2019
+
+- Designed and implemented tax computation templates by Excel functions and held training sessions on the use of them for team members to optimize the working process. 
+- Took charge of  tax compliance services tasks, such as tax review, tax filing, QFII/RQFII repatriation, and enhanced tax team’s advisory business capability by tax due diligence, tax health check, tax verification and etc. for clients.
+
+
+
+PROJECTS {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Pricing Prediction for NYC Airbnb Listings 
+
+Tufts University
+
+Medford, MA
+
+Nov.2020--Current
+
+<!--::: concise-->
+- Explored data by data cleaning, descriptive analysis and data visualization to anaylze correlations between different features, like price, locations, types of rooms, under the tools of Pandas, Numpy, Seaborn and Matplotlib in Python.
+- Performed modelling, like multiple linear regression, Lasso, Ridge and Random Forests for prediction and assessed models by MSE and R square under the tools of Sklearn in Python and glmnet in R. 
+<!--:::-->
+
+
+
+
+### Bank of Xi'An Co., Ltd. – Annual Tax Review 
+
+KPMG Advisory (China) Limited
+
+Shanghai, China
+
+Jul.2017 -- Mar.2019
+
+- Led the collaboration with the audit team to review and check the corporate income tax and value-added tax lead schedule, tax computation and sub-computations to assist the bank with IPO by issuing the report for risks of major tax matters in March, 2019.
+
+
+
+
+
+
